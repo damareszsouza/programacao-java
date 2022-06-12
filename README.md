@@ -1,10 +1,21 @@
+# O intuito desse GitHub, é servi de portfólio de exemplos de códigos e assuntos ligados a estudos e obtenção de prática
+# e experiência dentro da programação e desenvolvimento de software, atualmente sou estudante de engenharia de Software # e da Segurança da Informação assim como estou construindo conhecimentos como desenvolvedora full stack
+# possuo outro GitHub que pretendo focar em projetos pessoais com objetivos sócias, ecológicos, políticos e econômicos
+# Esses exercício foram os primeiros que psquisei na linguagem Java, e posteriomente em outras linguagens e tecnologias # que estudei seus significados e lógicas computacional.
 
+# Nota pessoal:
+
+# As dificuldades e diversidades do dia a dia, me transformaram, assim como a entrada da tecnologia em minha vida 
+# e a busca por conhecimentos
+# e oportunidades, tem moldado quem sou profissionalmente e como pessoa, moldando como percebo o mundo e suas lições 
+# a modificação de hábitos, de profissão, de projetos e pensamentos vem construindo uma versão melhor do que tinha sido
+# até aqui
+# 
+# Eu não sou o que me acontece, eu sou o que escolho me tornar. " Carl Jung'
+#
 
 //Wello World Java e implementação de uma fila com 100 elementos
-// Desenvolvido por: Antonio Rodrigo dos Santos Silva
-// rodrigosantos@ifce.edu.br
 
-//Comentario de uma linha
 
 public class HelloWorld {
  public static void main (String args[]) {
