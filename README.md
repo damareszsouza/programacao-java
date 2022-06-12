@@ -1,8 +1,16 @@
 
 
-// implementação de uma fila com 100 elementos
+//Wello World Java e implementação de uma fila com 100 elementos
 // Desenvolvido por: Antonio Rodrigo dos Santos Silva
 // rodrigosantos@ifce.edu.br
+
+//Comentario de uma linha
+
+public class HelloWorld {
+ public static void main (String args[]) {
+ System.out.println("Hello World!");
+ }
+}
 
 import javax.swing.*;
 
