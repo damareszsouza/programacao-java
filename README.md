@@ -1,7 +1,7 @@
 # O intuito desse GitHub, é servi de portfólio de exemplos de códigos e assuntos ligados a estudos e obtenção de prática
 # e experiência dentro da programação e desenvolvimento de software, atualmente sou estudante de engenharia de Software # e da Segurança da Informação assim como estou construindo conhecimentos como desenvolvedora full stack
 # possuo outro GitHub que pretendo focar em projetos pessoais com objetivos sócias, ecológicos, políticos e econômicos
-# Esses exercício foram os primeiros que psquisei na linguagem Java, e posteriomente em outras linguagens e tecnologias # que estudei seus significados e lógicas computacional.
+# Esses exercício foram os primeiros que pesquisei na linguagem Java, e posteriomente em outras linguagens e tecnologias # que estudei recentemente, esses exercícios foram os primeiros em aprofundamento de seus significados sobre lógicas computacional.
 
 # Nota pessoal:
 
